@@ -1,0 +1,14 @@
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.iOS\obj\Debug\actool\_PartialAppManifest.items
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.iOS\obj\Debug\actool\_BundleResourceWithLogicalName.items
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.iOS\obj\Debug\optimized\
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.iOS\obj\Debug\MyTunes.iOS.csprojResolveAssemblyReference.cache
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.iOS\bin\Debug\MyTunesiOS.exe
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.iOS\bin\Debug\MyTunesiOS.pdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.iOS\bin\Debug\MyTunes.Shared.dll
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.iOS\bin\Debug\Newtonsoft.Json.dll
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.iOS\bin\Debug\MyTunes.Shared.pdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.iOS\bin\Debug\Newtonsoft.Json.xml
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.iOS\obj\Debug\MyTunesiOS.exe
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.iOS\obj\Debug\MyTunesiOS.pdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.iOS\obj\Debug\MyTunesiOS.exe.mdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.iOS\bin\Debug\MyTunesiOS.exe.mdb

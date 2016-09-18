@@ -1,0 +1,2 @@
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.Shared\MyTunes.Shared.csproj;neutral
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.WP8\MyTunes.WP8.csproj;neutral

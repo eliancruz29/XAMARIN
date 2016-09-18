@@ -1,0 +1,13 @@
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.Shared\bin\Debug\MyTunes.Shared.dll
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.Shared\bin\Debug\MyTunes.Shared.pdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.Shared\bin\Debug\Newtonsoft.Json.dll
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.Shared\bin\Debug\Newtonsoft.Json.xml
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.Shared\obj\Debug\MyTunes.Shared.csprojResolveAssemblyReference.cache
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.Shared\obj\Debug\MyTunes.Shared.dll
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.Shared\obj\Debug\MyTunes.Shared.pdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.Shared\obj\Debug\MyTunes.Shared.dll.mdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.Shared\bin\Debug\MyTunes.Shared.dll.mdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.Shared\obj\Debug\MyTunes.Shared.dll.mdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.Shared\bin\Debug\MyTunes.Shared.dll.mdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.Shared\obj\Debug\MyTunes.Shared.dll.mdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes.PortableClassLibraries\MyTunes.Shared\bin\Debug\MyTunes.Shared.dll.mdb
