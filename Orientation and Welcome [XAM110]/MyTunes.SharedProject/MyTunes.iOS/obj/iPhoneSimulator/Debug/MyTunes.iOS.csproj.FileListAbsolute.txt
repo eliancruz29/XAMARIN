@@ -1,0 +1,12 @@
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.iOS\bin\iPhoneSimulator\Debug\MyTunesiOS.exe
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.iOS\bin\iPhoneSimulator\Debug\MyTunesiOS.pdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.xml
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.iOS\obj\iPhoneSimulator\Debug\optimized\
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.iOS\obj\iPhoneSimulator\Debug\MyTunesiOS.exe
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.iOS\obj\iPhoneSimulator\Debug\MyTunesiOS.pdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.iOS\obj\iPhoneSimulator\Debug\MyTunes.iOS.csprojResolveAssemblyReference.cache
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.iOS\obj\iPhoneSimulator\Debug\MyTunesiOS.exe.mdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.iOS\bin\iPhoneSimulator\Debug\MyTunesiOS.exe.mdb

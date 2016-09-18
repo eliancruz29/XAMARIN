@@ -1,0 +1,1 @@
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.UWP\MyTunes.UWP.csproj;x86

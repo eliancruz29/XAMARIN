@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-J54BB44</Machine>
+    <WindowsUser>elian</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>bf8975f1-ce21-4ce4-ae1b-549ce6836b94</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Mark</PackageIdentityPublisher>
+    <IntermediateOutputPath>E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.WP8\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.WP8\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.WP8\bin\Debug\MyTunes.WP8.exe">
+      <PackagePath>MyTunes.WP8.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\packages\Newtonsoft.Json.9.0.1\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.WP8\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.WP8\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.WP8\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.WP8\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.WP8\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.WP8\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.WP8\songs.json">
+      <PackagePath>songs.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.WP8\bin\Debug\MyTunes.WP8.xr.xml">
+      <PackagePath>MyTunes.WP8.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.WP8\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.WP8\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM110]\MyTunes\MyTunes.WP8\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
