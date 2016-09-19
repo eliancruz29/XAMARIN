@@ -1,0 +1,17 @@
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\FirstApp\FirstApp\FirstApp\bin\Debug\FirstApp.dll
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\FirstApp\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Core.dll
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Core.xml
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\FirstApp\FirstApp\FirstApp\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.dll
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.dll.mdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\FirstApp\FirstApp\FirstApp\bin\Debug\FirstApp.dll.mdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\FirstApp\FirstApp\FirstApp\obj\Debug\FirstApp.dll.mdb
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\FirstApp\FirstApp\FirstApp\bin\Debug\FirstApp.dll.mdb
