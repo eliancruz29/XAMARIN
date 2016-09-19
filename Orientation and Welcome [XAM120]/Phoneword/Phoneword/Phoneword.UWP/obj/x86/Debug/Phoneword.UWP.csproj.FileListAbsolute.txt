@@ -1,0 +1,11 @@
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\Phoneword.UWP.csprojResolveAssemblyReference.cache
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\App.g.i.cs
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\App.g.cs
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\MainPage.g.i.cs
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\MainPage.g.cs
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\App.xaml
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\MainPage.xaml
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\App.xbf
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\MainPage.xbf
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\Phoneword\Phoneword\Phoneword.UWP\obj\x86\Debug\XamlSaveStateFile.xml

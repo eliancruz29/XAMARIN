@@ -1,0 +1,2 @@
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\Phoneword\Phoneword\Phoneword.WinPhone\Phoneword.WinPhone.csproj;neutral
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\Phoneword\Phoneword\Phoneword\Phoneword.csproj;neutral

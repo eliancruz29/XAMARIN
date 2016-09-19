@@ -1,0 +1,2 @@
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\FirstApp\FirstApp\FirstApp.WinPhone\FirstApp.WinPhone.csproj;neutral
+E:\Visual Studio\XAMARIN\Orientation and Welcome [XAM120]\FirstApp\FirstApp\FirstApp\FirstApp.csproj;neutral
